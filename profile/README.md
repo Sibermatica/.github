@@ -1,4 +1,4 @@
-![Sibermatica Slogan](..\assets\open-at-sibermatica.png)
+![Sibermatica Slogan](https://github.com/Sibermatica/.github/blob/master/assets/open-at-sibermatica.png)
 
 ## Get Involved
 
